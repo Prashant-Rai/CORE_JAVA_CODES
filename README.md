@@ -1,2 +1,3 @@
-# prashant-rai-codes
+# prashant-codes
 just a repositiory
+only repo
